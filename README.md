@@ -1,51 +1,66 @@
 <!--
   ═══════════════════════════════════════════════════════════════
    ⚡ MYRAMM // [ ラム ] • CYBER-ANIME GITHUB PROFILE
+   🌸 Featuring: Akari Watanabe (渡辺 星) • Fuufu Ijou, Koibito Miman
    🎌 Anime Ecosystem • AI Agents • Reverse Engineering • Go • Kotlin
   ═══════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-  <!-- HEADER DYNAMIC BANNER / TYPING -->
+  <!-- HEADER DYNAMIC BANNER -->
   <a href="https://github.com/myramm">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,35&height=220&section=header&text=MYRAMM%20⚡%20ラム&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=「%20Anime%20Ecosystem%20Architect%20•%20AI%20Agent%20Dev%20•%20Reverse%20Engineer%20」&descFontSize=17&descAlignY=62&descAlign=50" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,35&height=220&section=header&text=MYRAMM%20⚡%20ラム&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=「%20Akari%20Watanabe%20Devotee%20•%20AI%20Builder%20•%20Reverse%20Engineer%20」&descFontSize=17&descAlignY=62&descAlign=50" width="100%"/>
   </a>
 
   <!-- TYPING SVG SUBTITLE -->
   <p align="center">
     <a href="https://github.com/myramm">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=580&lines=%3E_System.init(%22Hello%2C%20World!%22);;Building+Autonomous+AI+CLI+Agents+%E2%9A%A1;Engineering+Anime+Streaming+APIs+%26+Clients+%F0%9F%8E%A5;Android+Smali+Reverse+Engineering+%26+Modding+%F0%9F%9B%A1%EF%B8%8F;Go+%7C+Kotlin+%7C+TypeScript+%7C+Python+%7C+Ren'Py+%E2%9C%A8" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&width=580&lines=%E2%9C%A8+Powered+by+Akari+Watanabe+(%E6%B8%A1%E8%BE%BA+%E6%98%9F)+Energy+%F0%9F%8C%B8;;Building+Autonomous+AI+CLI+Agents+%E2%9A%A1;;Engineering+Anime+Streaming+APIs+%26+Clients+%F0%9F%8E%A5;;Android+Smali+Reverse+Engineering+%26+Modding+%F0%9F%9B%A1%EF%B8%8F;;Go+%7C+Kotlin+%7C+TypeScript+%7C+Python+%7C+Ren'Py+%E2%9A%A1" alt="Typing SVG" />
     </a>
   </p>
 
   <!-- BADGES -->
   <p align="center">
+    <img src="https://img.shields.io/badge/WAIFU-AKARI%20WATANABE%20%E2%9D%A4%EF%B8%8F-FF69B4?style=for-the-badge&logo=crunchyroll&logoColor=white" />
     <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-00F2FE?style=for-the-badge&logo=codeforces&logoColor=black" />
-    <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20ANIME%20ENG-FF2A85?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-    <img src="https://img.shields.io/badge/THEME-CYBERPUNK%20WIBU-9B51E0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/REPOS-29%20PROJECTS-00E676?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20ANIME%20SYSTEMS-FF2A85?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/THEME-CYBERPUNK%20GYARU-9B51E0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </p>
 
 </div>
 
 ---
 
-### 🌸 「 PROFILE OVERVIEW // プロフィール 」
+### 🌸 「 WAIFU & PROFILE // プロフィール 」
+
+<table border="0">
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <img src="assets/akari_cute.gif" width="100%" style="border-radius: 12px; box-shadow: 0 0 15px rgba(255, 105, 180, 0.4);" alt="Akari Watanabe" />
+      <br/>
+      <sub><b>🌸 渡辺 星 (Akari Watanabe)</b> — <i>Fuufu Ijou</i></sub>
+    </td>
+    <td width="64%" valign="top">
 
 ```yaml
 identity:
   name: "myramm (ラム)"
   role: "Full-Stack Polyglot & Anime System Architect"
   location: "Indonesia 🇮🇩"
+  muse: "Akari Watanabe (渡辺 星) 🌸"
   vibe: "Cyberpunk Otaku x Security & Reverse Engineering 🌌"
   specializations:
     - "Autonomous AI CLI Agents (Termux / Linux)"
     - "High-Performance Anime Streaming APIs & Android Clients"
     - "Android Reverse Engineering & Bytecode Manipulation (Smali/Java)"
     - "Bot Networks & Anti-Bot Bypass Systems (Cloudflare Turnstile Solver)"
-  quote: "「 限界なんてない。超えるためにあるんだ。」"
+  quote: "「 過去を悔やんでも、世界は変わらない。未来を創るコードを書け。」"
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -126,10 +141,10 @@ identity:
 
   <!-- GITHUB STATS & STREAK (ANIME/TOKYO NIGHT THEME) -->
   <a href="https://github.com/myramm">
-    <img src="https://github-readme-stats.vercel.app/api?username=myramm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=FF2A85&text_color=c9d1d9" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=myramm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=FF69B4&text_color=c9d1d9" height="165" />
   </a>
   <a href="https://github.com/myramm">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myramm&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F2FE&ring=FF2A85&fire=FF2A85&currStreakLabel=00F2FE" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myramm&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F2FE&ring=FF69B4&fire=FF69B4&currStreakLabel=00F2FE" height="165" />
   </a>
 
   <br/><br/>
@@ -143,12 +158,26 @@ identity:
 
 ---
 
-### 🎧 「 CURRENT VIBE & ANIME QUOTE // 気分と名言 」
+### 💖 「 AKARI'S SANCTUARY // 渡辺 星 」
 
 <div align="center">
 
-> *"Don't believe in yourself. Believe in the me that believes in you!"*  
-> — **Kamina (Tengen Toppa Gurren Lagann)** 🌌
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/akari_render.png" height="280" alt="Akari Watanabe Render" />
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/akari_icon.png" width="180" style="border-radius: 50%; border: 3px solid #FF69B4;" alt="Akari Icon" />
+      <br/><br/>
+      <blockquote>
+        <i>「 次郎、ちゃんと見ててよね！ 」</i><br/>
+        <b>— 渡辺 星 (Akari Watanabe)</b><br/>
+        <sub><i>Fuufu Ijou, Koibito Miman</i></sub>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -158,7 +187,7 @@ identity:
 </a>
 
 <p align="center">
-  <b>Designed with 💜 & ⚡ by <a href="https://github.com/myramm">myramm</a></b>
+  <b>Crafted with 💖, ⚡ & 🌸 for Akari Watanabe by <a href="https://github.com/myramm">myramm</a></b>
 </p>
 
 </div>
